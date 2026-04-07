@@ -1,6 +1,33 @@
-# 💫 About Me:
-👋 Hi, I'm Stephanie Nelima<br>I'm a Data Scientist passionate about leveraging machine learning models to solve real-world problems — with a focus on revenue optimization and climate change.<br>🔍 What I work on:<br><br>  *Building and deploying predictive models for revenue optimization<br>  *Applying data science to climate and environmental challenges<br>  *Turning complex datasets into actionable insights
+## 👋 Hi, I'm Stephanie Nelima
 
+I'm a **Data Scientist** and **Software Engineer** passionate about leveraging machine learning models and building robust systems to solve real-world problems — with a focus on **revenue optimization** and **climate change**.
+
+---
+
+### 🔍 What I work on
+- 🤖 Building and deploying predictive models for revenue optimization
+- 🌍 Applying data science and software engineering to climate and environmental challenges
+- ⚙️ Designing scalable systems and APIs that bring ML models to production
+- 📊 Turning complex datasets into actionable insights
+
+---
+
+### 🛠️ What I bring to the table
+| Area | Focus |
+|------|-------|
+| 💡 Data Science | Machine learning & statistical modeling |
+| ⚙️ Software Engineering | System design & scalable development |
+| 🌱 Climate Change | Data-driven environmental solutions |
+| 💰 Revenue Optimization | Predictive & prescriptive analytics |
+
+---
+
+📫 **Let's connect** — feel free to explore my repositories and reach out!
+```
+
+---
+
+Just paste this into your `README.md` file in your GitHub profile repository (the one named exactly after your username). Want me to add sections for your tech stack, GitHub stats badges, or social media links?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/stephanie-wanjala) 
