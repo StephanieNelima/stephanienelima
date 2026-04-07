@@ -23,11 +23,6 @@ I'm a **Data Scientist** and **Software Engineer** passionate about leveraging m
 ---
 
 📫 **Let's connect** — feel free to explore my repositories and reach out!
-```
-
----
-
-Just paste this into your `README.md` file in your GitHub profile repository (the one named exactly after your username). Want me to add sections for your tech stack, GitHub stats badges, or social media links?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/stephanie-wanjala) 
