@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stephanie Nelima<br>I'm a Data Scientist passionate about leveraging machine learning models to solve real-world problems — with a focus on revenue optimization and climate change.<br>🔍 What I work on:<br><br>Building and deploying predictive models for revenue optimization<br>Applying data science to climate and environmental challenges<br>Turning complex datasets into actionable insights
+👋 Hi, I'm Stephanie Nelima<br>I'm a Data Scientist passionate about leveraging machine learning models to solve real-world problems — with a focus on revenue optimization and climate change.<br>🔍 What I work on:<br><br>  *Building and deploying predictive models for revenue optimization<br>  *Applying data science to climate and environmental challenges<br>  *Turning complex datasets into actionable insights
 
 
 ## 🌐 Socials:
