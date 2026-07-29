@@ -54,6 +54,8 @@ An analysis of retail sales and customer behavior using Python and SQL. Using an
 
 **Project Link:** https://github.com/StephanieNelima/Retail-Orders-Anlysis
 
+[![Retail Orders Analysis](https://github.com/StephanieNelima/Retail-Orders-Anlysis) 
+
 ---
 📫 **Let's connect** — feel free to explore my repositories and reach out!
 
