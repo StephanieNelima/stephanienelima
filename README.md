@@ -26,6 +26,7 @@ I'm a **Data Scientist** and **Software Engineer** passionate about leveraging m
 ## 👋 Hi, I'm Stephanie Nelima
 
 I'm a **Data Scientist** and **Software Engineer** passionate about leveraging machine learning models and building robust systems to solve real-world problems — with a focus on **revenue optimization** and **climate change**.
+
 **Project Link:**
 
 ---
