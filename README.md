@@ -29,6 +29,30 @@ A statistical analysis of different attributes of air quality in Nairobi against
 
 **Project Link:** https://github.com/StephanieNelima/Factors-Affecting-Air-Quality-In-Nairobi
 
+## Telecommunications Customer Churn Prediction
+
+A Random Forest model predicting telecom customer churn, trained on the IBM Telco Customer Churn dataset through a full pipeline of data cleaning, exploratory analysis, categorical encoding, and SMOTE-based class balancing, then evaluated and serialized for inference on new customers.
+
+**Project Link:** https://github.com/StephanieNelima/Telecommunications-Customer-Churn-Prediction
+
+## Car Sales Analysis
+
+An analysis of factors affecting car sales including customer demographics, dealer region, manufacturer, vehicle characteristics, and time.
+
+**Project Link:** https://github.com/StephanieNelima/Car-Sales-Analysis
+
+
+## Wildlife Activity At The Photohide
+
+Wildlife activity at the photo-hide analyses the appearances of different wild life at a photographic hide in Lumo Conservancy, Kenya. This aims to understand the most common animals at the watering hole as well as their most common appearance times in terms of hours weeks and months in an effort to further wildlife conservation efforts in Kenya.
+
+**Project Link:** https://github.com/StephanieNelima/Wildlife-At-The-Photohide
+
+## Retail Orders Analysis
+
+An analysis of retail sales and customer behavior using Python and SQL. Using an ETL pipeline that loads, cleans and standardizes the schema, derives discount, sale price, and profit fields, and loads the result into a MySQL table.
+
+**Project Link:** https://github.com/StephanieNelima/Retail-Orders-Anlysis
 ---
 📫 **Let's connect** — feel free to explore my repositories and reach out!
 
