@@ -21,7 +21,14 @@ I'm a **Data Scientist** and **Software Engineer** passionate about leveraging m
 | 💰 Revenue Optimization | Predictive & prescriptive analytics |
 
 ---
+### 🛠️PORTFOLIO PROJECTS🛠️ 
 
+## 👋 Hi, I'm Stephanie Nelima
+
+I'm a **Data Scientist** and **Software Engineer** passionate about leveraging machine learning models and building robust systems to solve real-world problems — with a focus on **revenue optimization** and **climate change**.
+**Project Link:**
+
+---
 📫 **Let's connect** — feel free to explore my repositories and reach out!
 
 ## 🌐 Socials:
@@ -36,7 +43,6 @@ I'm a **Data Scientist** and **Software Engineer** passionate about leveraging m
 ---
 
 
-### 🛠️PORTFOLIO🛠️ 
 
 [![](https://visitcount.itsvg.in/api?id=stephanienelima&icon=0&color=0)](https://visitcount.itsvg.in)
 
