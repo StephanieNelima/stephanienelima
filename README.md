@@ -53,6 +53,7 @@ Wildlife activity at the photo-hide analyses the appearances of different wild l
 An analysis of retail sales and customer behavior using Python and SQL. Using an ETL pipeline that loads, cleans and standardizes the schema, derives discount, sale price, and profit fields, and loads the result into a MySQL table.
 
 **Project Link:** https://github.com/StephanieNelima/Retail-Orders-Anlysis
+
 ---
 📫 **Let's connect** — feel free to explore my repositories and reach out!
 
