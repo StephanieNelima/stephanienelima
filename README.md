@@ -27,7 +27,7 @@ I'm a **Data Scientist** and **Software Engineer** passionate about leveraging m
 
 A statistical analysis of different attributes of air quality in Nairobi against factors such as population and industrial growth, combining Gross County Product, population, PM sensor readings, and global air quality data into a consolidated, year-by-year view of how air quality, deforestation, and economic growth have evolved over time
 
-**Project Link:**https://github.com/StephanieNelima/Factors-Affecting-Air-Quality-In-Nairobi
+**Project Link:** https://github.com/StephanieNelima/Factors-Affecting-Air-Quality-In-Nairobi
 
 ---
 📫 **Let's connect** — feel free to explore my repositories and reach out!
